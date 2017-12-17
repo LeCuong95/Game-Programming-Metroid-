@@ -1,0 +1,41 @@
+﻿  main.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  bullet.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\metroid\bullet.cpp(21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\metroid\bullet.cpp(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Zoomer.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\metroid\zoomer.cpp(38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\metroid\zoomer.cpp(52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\metroid\zoomer.cpp(53): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\cuong\desktop\metroid\zoomer.cpp(54): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+  Weapon.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\metroid\weapon.cpp(31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\metroid\weapon.cpp(32): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\cuong\desktop\metroid\weapon.cpp(33): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+  SceneMain.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\metroid\scenemain.cpp(61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\metroid\scenemain.cpp(62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Samus.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\metroid\samus.cpp(29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\metroid\samus.cpp(106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\metroid\samus.cpp(140): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cuong\desktop\metroid\samus.cpp(155): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\metroid\samus.cpp(156): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\cuong\desktop\metroid\samus.cpp(157): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+  Object.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\metroid\object.cpp(17): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\cuong\desktop\metroid\object.cpp(18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\cuong\desktop\metroid\object.cpp(64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\metroid\object.cpp(83): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\cuong\desktop\metroid\object.cpp(84): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+  CameraObj.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Generating Code...
+  Metroid.vcxproj -> C:\Users\Cuong\Desktop\Metroid\Debug\Metroid.exe
+  Metroid.vcxproj -> C:\Users\Cuong\Desktop\Metroid\Debug\Metroid.pdb (Partial PDB)
