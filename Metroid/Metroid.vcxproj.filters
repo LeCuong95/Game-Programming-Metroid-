@@ -50,14 +50,14 @@
     <ClCompile Include="main.cpp">
       <Filter>WinMain</Filter>
     </ClCompile>
-    <ClCompile Include="..\CastleVanila_Final - Copy\Gfont.cpp">
+    <ClCompile Include="Swept_AABB.cpp">
+      <Filter>Performance</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadTree.cpp">
+      <Filter>Performance</Filter>
+    </ClCompile>
+    <ClCompile Include="Gfont.cpp">
       <Filter>FrameWork</Filter>
-    </ClCompile>
-    <ClCompile Include="..\CastleVanila_Final - Copy\Swept_AABB.cpp">
-      <Filter>Performance</Filter>
-    </ClCompile>
-    <ClCompile Include="..\CastleVanila_Final - Copy\QuadTree.cpp">
-      <Filter>Performance</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -110,14 +110,14 @@
     <ClInclude Include="GCamera.h">
       <Filter>FrameWork</Filter>
     </ClInclude>
-    <ClInclude Include="..\CastleVanila_Final - Copy\Gfont.h">
+    <ClInclude Include="Swept_AABB.h">
+      <Filter>Performance</Filter>
+    </ClInclude>
+    <ClInclude Include="QuadTree.h">
+      <Filter>Performance</Filter>
+    </ClInclude>
+    <ClInclude Include="Gfont.h">
       <Filter>FrameWork</Filter>
-    </ClInclude>
-    <ClInclude Include="..\CastleVanila_Final - Copy\Swept_AABB.h">
-      <Filter>Performance</Filter>
-    </ClInclude>
-    <ClInclude Include="..\CastleVanila_Final - Copy\QuadTree.h">
-      <Filter>Performance</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

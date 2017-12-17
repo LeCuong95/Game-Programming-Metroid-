@@ -1,41 +1,110 @@
-﻿  main.cpp
+﻿  Weapon.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-  bullet.cpp
-  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-c:\users\cuong\desktop\metroid\bullet.cpp(21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-c:\users\cuong\desktop\metroid\bullet.cpp(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  Zoomer.cpp
-  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-c:\users\cuong\desktop\metroid\zoomer.cpp(38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-c:\users\cuong\desktop\metroid\zoomer.cpp(52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-c:\users\cuong\desktop\metroid\zoomer.cpp(53): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
-c:\users\cuong\desktop\metroid\zoomer.cpp(54): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
-  Weapon.cpp
-  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-c:\users\cuong\desktop\metroid\weapon.cpp(31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-c:\users\cuong\desktop\metroid\weapon.cpp(32): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
-c:\users\cuong\desktop\metroid\weapon.cpp(33): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
-  SceneMain.cpp
-  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-c:\users\cuong\desktop\metroid\scenemain.cpp(61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-c:\users\cuong\desktop\metroid\scenemain.cpp(62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\global.h(53): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\cuong\desktop\game-programming-metroid-\metroid\weapon.cpp(31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\weapon.cpp(32): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\weapon.cpp(33): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+  Utils.cpp
   Samus.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-c:\users\cuong\desktop\metroid\samus.cpp(29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-c:\users\cuong\desktop\metroid\samus.cpp(106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-c:\users\cuong\desktop\metroid\samus.cpp(140): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\cuong\desktop\metroid\samus.cpp(155): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-c:\users\cuong\desktop\metroid\samus.cpp(156): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
-c:\users\cuong\desktop\metroid\samus.cpp(157): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\global.h(53): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\cuong\desktop\game-programming-metroid-\metroid\samus.cpp(29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\samus.cpp(106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\samus.cpp(140): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\samus.cpp(155): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\samus.cpp(156): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\samus.cpp(157): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+  GTexture.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\game-programming-metroid-\metroid\global.h(53): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gtexture.cpp(43): warning C4838: conversion from 'UINT' to 'LONG' requires a narrowing conversion
+  GSprite.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\game-programming-metroid-\metroid\global.h(53): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gsprite.cpp(91): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gsprite.cpp(92): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gsprite.cpp(108): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gsprite.cpp(127): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gsprite.cpp(162): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gsprite.cpp(163): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gsprite.cpp(185): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gsprite.cpp(186): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\game-programming-metroid-\metroid\global.h(53): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+  Global.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\game-programming-metroid-\metroid\global.h(53): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+  Game.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\game-programming-metroid-\metroid\global.h(53): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+  SceneMain.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\game-programming-metroid-\metroid\global.h(53): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\cuong\desktop\game-programming-metroid-\metroid\scenemain.cpp(61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\scenemain.cpp(62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   Object.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-c:\users\cuong\desktop\metroid\object.cpp(17): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
-c:\users\cuong\desktop\metroid\object.cpp(18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
-c:\users\cuong\desktop\metroid\object.cpp(64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-c:\users\cuong\desktop\metroid\object.cpp(83): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
-c:\users\cuong\desktop\metroid\object.cpp(84): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\global.h(53): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\cuong\desktop\game-programming-metroid-\metroid\object.cpp(17): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\object.cpp(18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\object.cpp(64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\object.cpp(83): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\object.cpp(84): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+  bullet.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\game-programming-metroid-\metroid\global.h(53): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\cuong\desktop\game-programming-metroid-\metroid\bullet.cpp(21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\bullet.cpp(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Map.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\game-programming-metroid-\metroid\global.h(53): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\cuong\desktop\game-programming-metroid-\metroid\map.cpp(18): warning C4473: 'fscanf' : not enough arguments passed for format string
+  c:\users\cuong\desktop\game-programming-metroid-\metroid\map.cpp(18): note: placeholders and their parameters expect 6 variadic arguments, but 5 were provided
+  c:\users\cuong\desktop\game-programming-metroid-\metroid\map.cpp(18): note: the missing variadic argument 6 is required by format string '%d'
+  Zoomer.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\game-programming-metroid-\metroid\global.h(53): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\cuong\desktop\game-programming-metroid-\metroid\zoomer.cpp(38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\zoomer.cpp(52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\zoomer.cpp(53): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\zoomer.cpp(54): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+  Swept_AABB.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\game-programming-metroid-\metroid\global.h(53): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+  QuadTree.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\game-programming-metroid-\metroid\global.h(53): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\cuong\desktop\game-programming-metroid-\metroid\quadtree.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\cuong\desktop\game-programming-metroid-\metroid\quadtree.cpp(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\cuong\desktop\game-programming-metroid-\metroid\quadtree.cpp(124): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\quadtree.cpp(153): warning C4018: '<': signed/unsigned mismatch
+c:\users\cuong\desktop\game-programming-metroid-\metroid\quadtree.cpp(192): warning C4018: '<': signed/unsigned mismatch
+c:\users\cuong\desktop\game-programming-metroid-\metroid\quadtree.cpp(199): warning C4018: '<': signed/unsigned mismatch
+  Gfont.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\game-programming-metroid-\metroid\global.h(53): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gfont.cpp(59): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gfont.cpp(60): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gfont.cpp(73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gfont.cpp(74): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gfont.cpp(75): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+  dsutil.cpp
+  GCamera.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\game-programming-metroid-\metroid\global.h(53): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gcamera.cpp(8): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gcamera.cpp(26): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gcamera.cpp(36): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gcamera.cpp(52): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\cuong\desktop\game-programming-metroid-\metroid\gcamera.cpp(53): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  GAudio.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\game-programming-metroid-\metroid\global.h(53): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
   CameraObj.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\cuong\desktop\game-programming-metroid-\metroid\global.h(53): warning C4091: 'extern ': ignored on left of 'Box' when no variable is declared
   Generating Code...
-  Metroid.vcxproj -> C:\Users\Cuong\Desktop\Metroid\Debug\Metroid.exe
-  Metroid.vcxproj -> C:\Users\Cuong\Desktop\Metroid\Debug\Metroid.pdb (Partial PDB)
+c:\users\cuong\desktop\game-programming-metroid-\metroid\game.cpp(61): warning C4715: 'CGame::InitWindow': not all control paths return a value
+  Metroid.vcxproj -> C:\Users\Cuong\Desktop\Game-Programming-Metroid-\Metroid\Debug\Metroid.exe
+  Metroid.vcxproj -> C:\Users\Cuong\Desktop\Game-Programming-Metroid-\Metroid\Debug\Metroid.pdb (Partial PDB)

@@ -87,13 +87,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\CastleVanila_Final - Copy\Gfont.cpp" />
-    <ClCompile Include="..\CastleVanila_Final - Copy\QuadTree.cpp" />
-    <ClCompile Include="..\CastleVanila_Final - Copy\Swept_AABB.cpp" />
     <ClCompile Include="CameraObj.cpp" />
     <ClCompile Include="GAudio.cpp" />
     <ClCompile Include="GCamera.cpp" />
     <ClCompile Include="dsutil.cpp" />
+    <ClCompile Include="Gfont.cpp" />
+    <ClCompile Include="QuadTree.cpp" />
+    <ClCompile Include="Swept_AABB.cpp" />
     <ClCompile Include="Zoomer.cpp" />
     <ClCompile Include="Map.cpp" />
     <ClCompile Include="bullet.cpp" />
@@ -109,14 +109,14 @@
     <ClCompile Include="Weapon.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\CastleVanila_Final - Copy\Gfont.h" />
-    <ClInclude Include="..\CastleVanila_Final - Copy\QuadTree.h" />
-    <ClInclude Include="..\CastleVanila_Final - Copy\Swept_AABB.h" />
     <ClInclude Include="CameraObj.h" />
     <ClInclude Include="GAudio.h" />
     <ClInclude Include="GCamera.h" />
     <ClInclude Include="dsutil.h" />
     <ClInclude Include="dxutil.h" />
+    <ClInclude Include="Gfont.h" />
+    <ClInclude Include="QuadTree.h" />
+    <ClInclude Include="Swept_AABB.h" />
     <ClInclude Include="Zoomer.h" />
     <ClInclude Include="Map.h" />
     <ClInclude Include="bullet.h" />
